@@ -76,5 +76,5 @@ Este proyecto fue creado con fines educativos y puede ser utilizado libremente c
 Proyecto desarrollado por estudiantes de tercer año de Ingeniería en Informática.
 
 **Colaboradores**:
-- c (@Raizexs)
+- Lukas Flores (@Raizexs)
 - David Vásquez (@vsqzHK)
